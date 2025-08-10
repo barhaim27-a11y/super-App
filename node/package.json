@@ -1,0 +1,11 @@
+{
+  "name": "super-app-node",
+  "version": "1.0.0",
+  "description": "Simple Node service for super-app",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0"
+  }
+}
